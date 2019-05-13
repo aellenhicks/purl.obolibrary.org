@@ -38,3 +38,23 @@ entries:
 - exact: /4.0.1/apollo_sv.owl
   replacement: https://raw.githubusercontent.com/ApolloDev/apollo-sv/v4.0.1/src/ontology/apollo-sv.owl
   
+ - exact: /region_neutral_instances_and_classes.owl
+  replacement: https://raw.githubusercontent.com/ufbmi/obc-ide-owl/master/obc-ide-indexing-instances-and-classes-region-neutral-punned-instances-and-classes.owl
+ 
+  - exact: /instances-and-classes-continent-of-South-America.owl
+  replacement: https://raw.githubusercontent.com/ufbmi/obc-ide-owl/master/obc-ide-indexing-instances-and-classes-continent-of-South-America.owl  
+  
+  - exact: /instances-and-classes-continent-of-North-America.owl
+  replacement: https://raw.githubusercontent.com/ufbmi/obc-ide-owl/master/obc-ide-indexing-instances-and-classes-continent-of-North-America.owl  
+  
+  - exact: /instances-and-classes-continent-of-Europe.owl
+  replacement: https://raw.githubusercontent.com/ufbmi/obc-ide-owl/master/obc-ide-indexing-instances-and-classes-continent-of-Europe.owl  
+
+  - exact: /instances-and-classes-continent-of-Australia.owl
+  replacement: https://raw.githubusercontent.com/ufbmi/obc-ide-owl/master/obc-ide-indexing-instances-and-classes-continent-of-Australia.owl
+  
+  - exact: /instances-and-classes-continent-of-Asia.owl
+  replacement: https://raw.githubusercontent.com/ufbmi/obc-ide-owl/master/obc-ide-indexing-instances-and-classes-continent-of-Asia.owl
+  
+  - exact: /instances-and-classes-continent-of-Africa.owl
+  replacement: https://raw.githubusercontent.com/ufbmi/obc-ide-owl/master/obc-ide-indexing-instances-and-classes-continent-of-Africa.owl
